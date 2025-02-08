@@ -1,11 +1,11 @@
-# 📝 OCR Data Extraction & Storage System
+#  OCR Data Extraction & Storage System
 
-## 📌 Overview
+##  Overview
 This project automates **data extraction from patient assessment forms** using **OCR** and stores the structured data in **MySQL**.
 
-✅ Extracts text from **PDFs & Images**  
-✅ Converts extracted data into **structured JSON**  
-✅ Stores JSON data in **MySQL database**  
+ Extracts text from **PDFs & Images**  
+ Converts extracted data into **structured JSON**  
+ Stores JSON data in **MySQL database**  
 
 ---
 
